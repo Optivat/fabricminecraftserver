@@ -1,0 +1,44 @@
+# -----------------------------
+# Fabric Server Runtime Files
+# -----------------------------
+
+# Worlds
+world/
+world_nether/
+world_the_end/
+
+# Logs
+logs/
+*.log
+*.log.gz
+debug/
+crash-reports/
+
+# Server configs that vary by machine
+# server.properties
+# eula.txt
+whitelist.json
+ops.json
+banned-ips.json
+banned-players.json
+usercache.json
+
+# Fabric loader-generated files
+.fabric/
+fabric-installer.jar
+fabric-server-launcher.jar
+
+# Mods (optional—see note below)
+mods/
+# OR: !mods/*.jar   # uncomment this if you want to commit ONLY specific mod JARs
+
+# Config directory — usually should be ignored
+config/
+
+# Cache/temp
+cache/
+libraries/
+versions/
+
+# IDEs
+.idea/
