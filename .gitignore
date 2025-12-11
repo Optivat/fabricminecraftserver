@@ -29,7 +29,7 @@ fabric-installer.jar
 fabric-server-launcher.jar
 
 # Mods (optional—see note below)
-mods/
+# mods/
 # OR: !mods/*.jar   # uncomment this if you want to commit ONLY specific mod JARs
 
 # Config directory — usually should be ignored
