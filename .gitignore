@@ -15,8 +15,8 @@ debug/
 crash-reports/
 
 # Server configs that vary by machine
-# server.properties
-# eula.txt
+server.properties
+eula.txt
 whitelist.json
 ops.json
 banned-ips.json
@@ -37,8 +37,8 @@ config/
 
 # Cache/temp
 cache/
-libraries/
-#versions/
+#libraries/
+versions/
 
 # IDEs
 .idea/
