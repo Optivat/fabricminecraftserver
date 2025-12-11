@@ -38,7 +38,7 @@ config/
 # Cache/temp
 cache/
 libraries/
-versions/
+#versions/
 
 # IDEs
 .idea/
